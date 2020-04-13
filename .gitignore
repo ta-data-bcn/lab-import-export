@@ -9,6 +9,12 @@
 #   git rm -r .ipynb_checkpoints/
 #
 
+# remove track of excel file provided by TA
+/data/astronauts.xls
+
+# remove track of csv file provided by TA
+/data/shuttle.csv
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
